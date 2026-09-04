@@ -1,2 +1,2 @@
-# DataScience1
+# DataScienceProject1
 First Data science project
