@@ -1,2 +1,2 @@
-# AlgorithmProject1
-First algorithm project
+# DataScience1
+First Data science project
