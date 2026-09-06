@@ -1,3 +1,4 @@
+import scalation.mathstat._
 import scalation.modeling.SimpleRegression
 
 @main def AutoMPG(): Unit = 
