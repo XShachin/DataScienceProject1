@@ -23,15 +23,15 @@
 
 This project examines three datasets using exploratory data analysis and simple
 linear regression: AutoMPG, Concrete Compressive Strength, and Airfoil
-Self-Noise. For each dataset, the analysis checks string-valued variables,
-missing values, and potential outliers; summarizes the variables; examines
-Pearson correlations; selects the two predictors with the strongest absolute
-correlations with the response; and fits separate simple linear regression
+Self-Noise. For each dataset, we check string-valued variables,
+missing values, and potential outliers; summarize the variables; examine
+Pearson correlations; select the two predictors with the strongest absolute
+correlations with the response; and fit separate simple linear regression
 models in both Python \texttt{statsmodels} and ScalaTion.
 
-Potential outliers were identified using the $1.5\times IQR$ rule. An
-observation flagged by this rule was not automatically removed; the decision
-to retain or remove it was based on whether there was evidence that the value
+Potential outliers were identified using the $1.5\times IQR$ rule. These
+outliers flagged by this rule were not automatically removed; the decision
+to keep or remove them was based on whether there was evidence that the value
 was invalid. The regression model used throughout the project is
 
 \[
@@ -63,11 +63,10 @@ approximately 1.51\% of the original dataset. These six rows were removed,
 leaving 392 observations for the numerical analysis.
 
 Potential outliers were examined with boxplots and the $1.5\times IQR$ rule.
-Ten potential outliers were identified for horsepower and eleven for
+Ten potential outliers were found for horsepower and eleven for
 acceleration. No potential outliers were identified for MPG, cylinders,
-displacement, weight, or model year. The flagged observations were retained
-because the values were plausible and there was no evidence of data-entry
-errors.
+displacement, weight, or model year. The flagged outliers were kept because altough
+the IQR rule flagged them, we did not deem the values to be implausible.
 
 \subsection{Statistical Summary}
 
@@ -533,7 +532,6 @@ weight for AutoMPG, which explained approximately 69.3\% of MPG variation.
 The Concrete and Airfoil models had lower $R^2$ values, indicating that their
 responses are less adequately explained by one predictor at a time. The
 results illustrate both the usefulness and the limitations of simple linear
-regression: a statistically significant relationship may exist even when a
-single predictor leaves substantial response variation unexplained.
+regression.
 
 \end{document}
