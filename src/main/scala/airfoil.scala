@@ -39,5 +39,5 @@ import scalation.modeling.SimpleRegression
     println(displacementModel.summary())
 
     println("Interpretation: Sound Pressure and Displacement Thickness have an inverse relationship, " +
-      "where if one increases the other decreses. With around 164.027 dB decrease in Sound pressure" +
+      "where if one increases the other decreases. With around 0.164 dB decrease in Sound pressure" +
       " for every mm increase in displacement thickness")
