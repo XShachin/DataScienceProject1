@@ -1,6 +1,9 @@
 target/
+project/target/
+
 .bloop/
 .bsp/
 .metals/
 .idea/
 .vscode/
+.venv/
