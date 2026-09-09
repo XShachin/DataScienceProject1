@@ -1,5 +1,6 @@
 import scalation.modeling.SimpleRegression
 import scalation.mathstat._
+import scalation.scala2d.writeImage
 
 @main def Concrete(): Unit = 
     // Load cleaned Concrete data
@@ -26,12 +27,26 @@ import scalation.mathstat._
     println("Interpretation: Strength has a positive, linear correlation with" +
         " cement content. The model explains about 24.8% of the variation in Strength.")
 
-    new Plot(
+    new java.io.File("images").mkdirs()
+
+
+    val cementPlot = new Plot(
         cement,
         y,
         cementPredictions,
         "Observed vs Fitted Strength by Cement",
-        lines = true
+        lines = false
+    )
+
+    cementPlot.setSize(1000, 750)
+    cementPlot.validate()
+    cementPlot.repaint()
+
+    Thread.sleep(1000)
+
+    writeImage(
+        "/concrete_cement_fit.png",
+        cementPlot
     )
 
     // SimpleRegression for Strength vs Superplasticizer
@@ -46,10 +61,21 @@ import scalation.mathstat._
 
     println("Interpretation: Strength has a positive, linear correlation with" +
         " superplasticizer content. The model explains about 13.4% of the variation in Strength.")
-    new Plot(
+    val superplasticizerPlot = new Plot(
         superplasticizer,
         y,
         superplasticizerPredictions,
         "Observed vs Fitted Strength by Superplasticizer",
-        lines = true
+        lines = false
     )
+
+    superplasticizerPlot.setSize(1000, 750)
+    superplasticizerPlot.validate()
+    superplasticizerPlot.repaint()
+
+    Thread.sleep(1000)
+
+    writeImage(
+    "/concrete_superplasticizer_fit.png",
+    superplasticizerPlot
+)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.8)  8 SEP 2026 14:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.8)  8 SEP 2026 16:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -334,24 +334,24 @@ File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 ) (Project1_Full_Report.aux)
 \openout1 = `Project1_Full_Report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -413,7 +413,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 17.
+Package hyperref Info: Link coloring OFF on input line 16.
  (Project1_Full_Report.out) (Project1_Full_Report.out)
 \@outlinefile=\write3
 \openout3 = `Project1_Full_Report.out'.
@@ -431,11 +431,11 @@ Package caption Info: End \AtBeginDocument code.
 <figures/auto_corr_heatmap.png, id=143, 486.618pt x 424.787pt>
 File: figures/auto_corr_heatmap.png Graphic file (type png)
 <use figures/auto_corr_heatmap.png>
-Package pdftex.def Info: figures/auto_corr_heatmap.png  used on input line 131.
+Package pdftex.def Info: figures/auto_corr_heatmap.png  used on input line 130.
 
 (pdftex.def)             Requested size: 366.40834pt x 319.86636pt.
  [4 <./figures/auto_corr_heatmap.png>]
-Overfull \hbox (3.78603pt too wide) in paragraph at lines 151--155
+Overfull \hbox (3.78603pt too wide) in paragraph at lines 150--154
 []\OT1/cmr/m/n/10.95 ScalaTion re-ported $\OML/cmm/m/it/10.95 R[] \OT1/cmr/m/n/
 10.95 = 0\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 648229$ and ad-justed $\OML/cm
 m/m/it/10.95 R[] \OT1/cmr/m/n/10.95 = 0\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 
@@ -446,10 +446,10 @@ m/m/it/10.95 R[] \OT1/cmr/m/n/10.95 = 0\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95
 File: figures/auto_displacement_fit.png Graphic file (type png)
 <use figures/auto_displacement_fit.png>
 Package pdftex.def Info: figures/auto_displacement_fit.png  used on input line 
-158.
+157.
 (pdftex.def)             Requested size: 366.40834pt x 258.88786pt.
 
-Overfull \hbox (4.88103pt too wide) in paragraph at lines 177--181
+Overfull \hbox (4.88103pt too wide) in paragraph at lines 176--180
 []\OT1/cmr/m/n/10.95 ScalaTion re-ported $\OML/cmm/m/it/10.95 R[] \OT1/cmr/m/n/
 10.95 = 0\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 692630$ and ad-justed $\OML/cm
 m/m/it/10.95 R[] \OT1/cmr/m/n/10.95 = 0\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 
@@ -459,7 +459,7 @@ m/m/it/10.95 R[] \OT1/cmr/m/n/10.95 = 0\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95
 <figures/auto_weight_fit.png, id=153, 440.847pt x 311.4837pt>
 File: figures/auto_weight_fit.png Graphic file (type png)
 <use figures/auto_weight_fit.png>
-Package pdftex.def Info: figures/auto_weight_fit.png  used on input line 184.
+Package pdftex.def Info: figures/auto_weight_fit.png  used on input line 183.
 (pdftex.def)             Requested size: 366.40834pt x 258.88786pt.
 [5 <./figures/auto_displacement_fit.png>] [6 <./figures/auto_weight_fit.png>]
 [7]
@@ -467,38 +467,52 @@ Package pdftex.def Info: figures/auto_weight_fit.png  used on input line 184.
 File: figures/concrete_corr_heatmap.png Graphic file (type png)
 <use figures/concrete_corr_heatmap.png>
 Package pdftex.def Info: figures/concrete_corr_heatmap.png  used on input line 
-279.
+278.
 (pdftex.def)             Requested size: 385.20255pt x 332.70016pt.
- [8 <./figures/concrete_corr_heatmap.png>] [9] [10]
-<figures/airfoil_corr_heatmap.png, id=191, 488.224pt x 424.787pt>
+ [8 <./figures/concrete_corr_heatmap.png>]
+<figures/concrete_cement_fit.png, id=180, 1003.75pt x 752.8125pt>
+File: figures/concrete_cement_fit.png Graphic file (type png)
+<use figures/concrete_cement_fit.png>
+Package pdftex.def Info: figures/concrete_cement_fit.png  used on input line 32
+0.
+(pdftex.def)             Requested size: 366.40834pt x 274.803pt.
+<figures/concrete_superplasticizer_fit.png, id=181, 1003.75pt x 752.8125pt>
+File: figures/concrete_superplasticizer_fit.png Graphic file (type png)
+<use figures/concrete_superplasticizer_fit.png>
+Package pdftex.def Info: figures/concrete_superplasticizer_fit.png  used on inp
+ut line 360.
+(pdftex.def)             Requested size: 366.40834pt x 274.803pt.
+ [9 <./figures/concrete_cement_fit.png>] [10 <./figures/concrete_superplasticiz
+er_fit.png>] [11]
+<figures/airfoil_corr_heatmap.png, id=199, 488.224pt x 424.787pt>
 File: figures/airfoil_corr_heatmap.png Graphic file (type png)
 <use figures/airfoil_corr_heatmap.png>
 Package pdftex.def Info: figures/airfoil_corr_heatmap.png  used on input line 4
-51.
+50.
 (pdftex.def)             Requested size: 366.40834pt x 318.79688pt.
- [11 <./figures/airfoil_corr_heatmap.png>]
-<figures/airfoil_frequency_fit.png, id=199, 498.663pt x 317.988pt>
+ [12 <./figures/airfoil_corr_heatmap.png>]
+<figures/airfoil_frequency_fit.png, id=207, 498.663pt x 317.988pt>
 File: figures/airfoil_frequency_fit.png Graphic file (type png)
 <use figures/airfoil_frequency_fit.png>
 Package pdftex.def Info: figures/airfoil_frequency_fit.png  used on input line 
-479.
+478.
 (pdftex.def)             Requested size: 366.40834pt x 233.65286pt.
 
-Overfull \hbox (4.88103pt too wide) in paragraph at lines 501--505
+Overfull \hbox (4.88103pt too wide) in paragraph at lines 500--504
 []\OT1/cmr/m/n/10.95 ScalaTion re-ported $\OML/cmm/m/it/10.95 R[] \OT1/cmr/m/n/
 10.95 = 0\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 097762$ and ad-justed $\OML/cm
 m/m/it/10.95 R[] \OT1/cmr/m/n/10.95 = 0\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 
 097161$, again match-ing the \OT1/cmtt/m/n/10.95 statsmodels
  []
 
-<figures/airfoil_displacement_fit.png, id=200, 497.2176pt x 317.988pt>
+<figures/airfoil_displacement_fit.png, id=208, 497.2176pt x 317.988pt>
 File: figures/airfoil_displacement_fit.png Graphic file (type png)
 <use figures/airfoil_displacement_fit.png>
 Package pdftex.def Info: figures/airfoil_displacement_fit.png  used on input li
-ne 508.
+ne 507.
 (pdftex.def)             Requested size: 366.40834pt x 234.34186pt.
-[12 <./figures/airfoil_frequency_fit.png>] [13 <./figures/airfoil_displacement_
-fit.png>] [14] (Project1_Full_Report.aux)
+[13 <./figures/airfoil_frequency_fit.png>] [14 <./figures/airfoil_displacement_
+fit.png>] [15] (Project1_Full_Report.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -507,10 +521,10 @@ Package rerunfilecheck Info: File `Project1_Full_Report.out' has not changed.
 (rerunfilecheck)             Checksum: B9B5B5E8F7314FC80BCB7C42BD01F099;4288.
  ) 
 Here is how much of TeX's memory you used:
- 11252 strings out of 467871
- 180593 string characters out of 5418377
+ 11263 strings out of 467871
+ 181032 string characters out of 5418377
  608544 words of memory out of 5000000
- 39968 multiletter control sequences out of 15000+600000
+ 39978 multiletter control sequences out of 15000+600000
  633958 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,9n,79p,362b,463s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -526,9 +540,9 @@ ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/
 abrar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
 C:/Users/abrar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmt
 t10.pfb>
-Output written on Project1_Full_Report.pdf (14 pages, 681866 bytes).
+Output written on Project1_Full_Report.pdf (15 pages, 703760 bytes).
 PDF statistics:
- 274 PDF objects out of 1000 (max. 8388607)
- 54 named destinations out of 1000 (max. 500000)
- 220 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 283 PDF objects out of 1000 (max. 8388607)
+ 55 named destinations out of 1000 (max. 500000)
+ 230 words of extra memory for PDF output out of 10000 (max. 10000000)
 
