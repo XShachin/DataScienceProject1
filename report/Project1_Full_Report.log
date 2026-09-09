@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.8)  8 SEP 2026 16:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.8)  9 SEP 2026 09:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -470,18 +470,18 @@ Package pdftex.def Info: figures/concrete_corr_heatmap.png  used on input line
 278.
 (pdftex.def)             Requested size: 385.20255pt x 332.70016pt.
  [8 <./figures/concrete_corr_heatmap.png>]
-<figures/concrete_cement_fit.png, id=180, 1003.75pt x 752.8125pt>
+<figures/concrete_cement_fit.png, id=180, 513.41812pt x 440.14438pt>
 File: figures/concrete_cement_fit.png Graphic file (type png)
 <use figures/concrete_cement_fit.png>
 Package pdftex.def Info: figures/concrete_cement_fit.png  used on input line 32
 0.
-(pdftex.def)             Requested size: 366.40834pt x 274.803pt.
-<figures/concrete_superplasticizer_fit.png, id=181, 1003.75pt x 752.8125pt>
+(pdftex.def)             Requested size: 366.40834pt x 314.11655pt.
+<figures/concrete_superplasticizer_fit.png, id=181, 510.90875pt x 443.15562pt>
 File: figures/concrete_superplasticizer_fit.png Graphic file (type png)
 <use figures/concrete_superplasticizer_fit.png>
 Package pdftex.def Info: figures/concrete_superplasticizer_fit.png  used on inp
 ut line 360.
-(pdftex.def)             Requested size: 366.40834pt x 274.803pt.
+(pdftex.def)             Requested size: 366.40834pt x 317.81406pt.
  [9 <./figures/concrete_cement_fit.png>] [10 <./figures/concrete_superplasticiz
 er_fit.png>] [11]
 <figures/airfoil_corr_heatmap.png, id=199, 488.224pt x 424.787pt>
@@ -540,7 +540,7 @@ ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/
 abrar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
 C:/Users/abrar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmt
 t10.pfb>
-Output written on Project1_Full_Report.pdf (15 pages, 703760 bytes).
+Output written on Project1_Full_Report.pdf (15 pages, 714896 bytes).
 PDF statistics:
  283 PDF objects out of 1000 (max. 8388607)
  55 named destinations out of 1000 (max. 500000)
